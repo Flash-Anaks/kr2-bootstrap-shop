@@ -62,3 +62,37 @@ kr2-bootstrap-shop/
 - `css/custom.css` — дополнительные стили проекта;
 - `images/` — изображения проекта;
 - `README.md` — описание проекта.
+
+## Подключение Bootstrap
+
+В проекте Bootstrap подключён локально. Файлы фреймворка размещены в папке `vendor/bootstrap/`.
+
+Используются:
+
+- `vendor/bootstrap/css/bootstrap.min.css`;
+- `vendor/bootstrap/js/bootstrap.bundle.min.js`.
+
+## Контрольная работа №2
+
+Тема: «CSS-фреймворки: разработка интерфейса на Bootstrap или альтернативном CSS-фреймворке».
+
+## Используемый фреймворк
+
+Bootstrap.
+
+## Способ подключения
+
+Bootstrap подключён локально из папки `vendor/bootstrap/`.
+
+## Реализованные компоненты
+
+- `navbar`;
+- `card`;
+- `btn`;
+- `badge`;
+- `alert`;
+- `modal`;
+- `form-control`;
+- `input-group`;
+- `form-check`;
+- `accordion`.
